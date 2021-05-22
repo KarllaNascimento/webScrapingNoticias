@@ -29,4 +29,4 @@ $ git clone https://github.com/KarllaNascimento/webScrapingNoticias.git
 Instalar dependências:
 
 - 1 - npm init -y 
-- 2 - npm i pupetter
+- 2 - npm i puppeteer
